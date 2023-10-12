@@ -1,0 +1,12 @@
+body{
+    border:3px solid black;
+    
+    
+    background-image:url('bg.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size :100% ;
+    }
+    .psw,h2,label{
+        color:aliceblue;
+    }
